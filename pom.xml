@@ -34,9 +34,9 @@
   </dependencies>
 
 <scm>
-      <url>http://www.github.com</url>
-      <connection>https://github.com/vickieStomar/MyProject.git</connection>
-      <developerConnection>https://vickiestomar:Disc0vergithub.com/vickieStomar/MyProject.git</developerConnection>
+      <url>https://github.com/vickieStomar/MyProject.git</url>
+      <connection>scm:git:ssh://git@github.com/vickieStomar/MyProject.git</connection>
+      <developerConnection>scm:git:ssh://git@github.com/vickieStomar/MyProject/tree/master</developerConnection>
    </scm>
 
 <distributionManagement>
