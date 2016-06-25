@@ -29,8 +29,8 @@
 
 <scm>
       <url>https://github.com/vickieStomar/MyProject.git</url>
-      <connection>scm:git:ssh://git@github.com/vickieStomar/MyProject.git</connection>
-      <developerConnection>scm:git:ssh://git@github.com/vickieStomar/MyProject/tree/master</developerConnection>
+      <connection>https://vickiestomar:Disc0ver@github.com/vickieStomar/MyProject.git</connection>
+      <developerConnection>https://vickiestomar:Disc0ver@github.com/vickieStomar/MyProject/tree/master</developerConnection>
    </scm>
 
 <distributionManagement>
