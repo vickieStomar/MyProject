@@ -1,1 +1,3 @@
 Assets for project contains information that is static.
+
+HighLights of the sprint

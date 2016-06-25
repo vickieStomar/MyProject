@@ -33,9 +33,16 @@
     
   </dependencies>
 
+<scm>
+      <url>http://www.github.com</url>
+      <connection>https://github.com/vickieStomar/MyProject.git</connection>
+      <developerConnection>https://vickiestomar:Disc0vergithub.com/vickieStomar/MyProject.git</developerConnection>
+   </scm>
+
 <distributionManagement>
    <snapshotRepository>
       	<id>nexus-snapshots</id>
+	<name>Snapshot</name>
       <url>http://127.0.0.1:8081/nexus/content/repositories/snapshots/</url>
    </snapshotRepository>
 </distributionManagement>
