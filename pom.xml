@@ -30,7 +30,7 @@
 <scm>
       <url>https://github.com/vickieStomar/MyProject.git</url>
       <connection>scm:git:ssh://git@github.com/vickieStomar/MyProject.git</connection>
-      <developerConnection>scm:git:ssh://git@github.com/vickieStomar/MyProject/tree/master</developerConnection>
+      <developerConnection>scm:git:ssh://git@github.com/vickieStomar/MyProject.git</developerConnection>
    </scm>
 
 <distributionManagement>
